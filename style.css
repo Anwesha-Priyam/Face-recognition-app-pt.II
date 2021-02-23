@@ -1,0 +1,32 @@
+.cyan
+{
+    color: aqua;
+}
+body
+{
+    background-color: mediumaquamarine;
+}
+b,h2
+{
+    color: lightseagreen;
+    font-size: 25px;
+}
+label
+{
+    color: lightskyblue;
+    font-size: 19px;
+    font-weight: 600;
+}
+p
+{
+    font-size: 24px;
+    font-weight: 500;
+    color: crimson;
+}
+button
+{
+    background-color: lightgoldenrodyellow;
+    color: rgb(40, 164, 241);
+    font-size: 18px;
+    font-weight: 600;
+}
